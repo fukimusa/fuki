@@ -1,2 +1,2 @@
 # fuki
-pythonn
+print("hello world!")
